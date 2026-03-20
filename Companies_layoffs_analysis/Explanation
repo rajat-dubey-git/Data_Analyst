@@ -1,0 +1,5 @@
+Performed complete data analysis on layoffs dataset including data cleaning, transformation, and aggregation using SQL.
+
+Used advanced SQL concepts like CTEs, Window Functions (DENSE_RANK, rolling totals), and GROUP BY for insightful analysis.
+
+Derived key insights such as top companies by layoffs, yearly trends, and industry-wise impact.
