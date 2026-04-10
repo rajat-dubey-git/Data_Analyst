@@ -3,12 +3,13 @@ A complete end-to-end SQL project that takes a raw, messy dataset of global tech
 ________________________________________
 
 📁 Project Structure
+
 world-layoffs-sql-project/
-│
+
 ├── scripts/
-│   ├── 01_data_cleaning.sql          # Full data cleaning pipeline
-│   └── 02_exploratory_data_analysis.sql  # EDA — trends, rankings, time series
-│
+  ├── 01_data_cleaning.sql          # Full data cleaning pipeline
+  └── 02_exploratory_data_analysis.sql  # EDA — trends, rankings, time series
+
 ├── README.md                         # Project overview (this file)
 └── EXPLANATION.md                    # Step-by-step walkthrough & key decisions
 ________________________________________
