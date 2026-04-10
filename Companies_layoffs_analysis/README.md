@@ -2,18 +2,6 @@
 A complete end-to-end SQL project that takes a raw, messy dataset of global tech layoffs and transforms it into a clean, analysis-ready table — then explores it with meaningful queries to surface real-world trends.
 ________________________________________
 
-📁 Project Structure
-
-world-layoffs-sql-project/
-
-├── scripts/
-  ├── 01_data_cleaning.sql          # Full data cleaning pipeline
-  └── 02_exploratory_data_analysis.sql  # EDA — trends, rankings, time series
-
-├── README.md                         # Project overview (this file)
-└── EXPLANATION.md                    # Step-by-step walkthrough & key decisions
-________________________________________
-
 📊 Dataset
 Field	Description
 company -	Company name
