@@ -3,15 +3,25 @@ A complete end-to-end SQL project that takes a raw, messy dataset of global tech
 ________________________________________
 
 📊 Dataset
+
 Field	Description
+
 company -	Company name
+
 location -	City/region of layoff
+
 industry -	Sector (e.g., Tech, Finance, Crypto)
+
 total_laid_off -	Absolute number of employees laid off
+
 percentage_laid_off -	Fraction of workforce laid off (0–1)
+
 date -	Date of layoff event
+
 stage	- Funding stage (e.g., Series B, Post-IPO)
+
 country -	Country where the layoff occurred
+
 funds_raised_millions -	Total funding raised by the company
 
 Source: Layoffs.fyi — a community-tracked dataset of tech layoffs worldwide.
