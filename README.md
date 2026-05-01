@@ -244,59 +244,10 @@ The database tracks:
 
 ---
 
-## 🤝 How to Use This Project
-
-1. **Study**: Use this as a learning resource for database design and SQL
-2. **Extend**: Add more tables (e.g., reviews, wishlists, returns management)
-3. **Customize**: Modify queries for your specific business needs
-4. **Interview Prep**: Reference for SQL and database design interviews
-5. **Portfolio**: Showcase your database and SQL skills
-
----
-
-## 📝 Future Enhancements
-
-- [ ] Add triggers for automatic inventory updates
-- [ ] Create stored procedures for complex operations
-- [ ] Implement views for common queries
-- [ ] Add data validation constraints
-- [ ] Create performance indexes
-- [ ] Add more complex analytics queries
-- [ ] Implement data backup strategies
-
----
-
-## 📚 Learning Resources
-
-- [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)
-- [SQL Window Functions](https://www.postgresql.org/docs/current/functions-window.html)
-- [Common Table Expressions (CTEs)](https://www.postgresql.org/docs/current/queries-with.html)
-- [Database Normalization](https://en.wikipedia.org/wiki/Database_normalization)
-
----
-
-## 📞 Support
-
-For questions or improvements, feel free to:
-- Open an issue on GitHub
-- Submit a pull request
-- Contact the project maintainer
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Database design inspired by real-world e-commerce platforms
 - Queries based on common business analytics challenges
 
----
-
-**Happy Learning! 🚀**
 
 *Last Updated: 2025*
