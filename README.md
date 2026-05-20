@@ -46,8 +46,6 @@ A comprehensive relational database design for an e-commerce platform with advan
 - Seller performance metrics
 - Product profitability analysis
 
-📖 **[View Project →](./E-commerce-Database)**
-
 ---
 
 ### 2. 📉 [Companies Layoffs Analysis](./Companies_layoffs_analysis)
@@ -61,8 +59,6 @@ Data analysis of company layoffs, identifying trends, patterns, and insights fro
 - Data cleaning and preparation
 
 **Technologies:** SQL, Data Analysis, PostgreSQL
-
-📖 **[View Project →](./Companies_layoffs_analysis)**
 
 ---
 
@@ -130,59 +126,6 @@ Data analysis of company layoffs, identifying trends, patterns, and insights fro
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- PostgreSQL 12+ installed
-- Git installed
-- Basic SQL knowledge (helpful but not required)
-
-### Quick Start
-
-**Option 1: E-Commerce Database**
-```bash
-# 1. Navigate to project
-cd E-commerce-Database
-
-# 2. Read the README
-cat README.md
-
-# 3. Follow SETUP.md
-cat SETUP.md
-```
-
-**Option 2: Companies Layoffs Analysis**
-```bash
-# 1. Navigate to project
-cd Companies_layoffs_analysis
-
-# 2. Read the project documentation
-```
-
----
-
-## 📚 Project Structure
-
-```
-rajat-dubey-git/
-│
-├── 📁 E-commerce-Database/
-│   ├── README.md                 # Project overview
-│   ├── SETUP.md                  # Installation guide
-│   ├── schema.sql               # Database schema
-│   ├── queries.sql              # 20 business queries
-│   ├── ER_DIAGRAM.png           # Visual diagram
-│   ├── GIT_INSTRUCTIONS.md      # Git workflow
-│   ├── PROJECT_SUMMARY.md       # Quick summary
-│   └── .gitignore
-│
-├── 📁 Companies_layoffs_analysis/
-│   └── (Project files)
-│
-└── 📄 README.md                 # This file
-```
-
----
 
 ## 📈 Project Highlights
 
@@ -205,59 +148,6 @@ rajat-dubey-git/
 
 ---
 
-## 🎓 Learning Resources
-
-Each project includes:
-- ✅ Complete setup instructions
-- ✅ Detailed query explanations
-- ✅ Business problem statements
-- ✅ Troubleshooting guides
-- ✅ Best practices documentation
-
----
-
-## 💼 How to Use These Projects
-
-### For Learning
-- Study the database design patterns
-- Learn advanced SQL techniques
-- Understand real-world query optimization
-- See professional project organization
-
-### For Interviews
-- Discuss database architecture
-- Walk through complex queries
-- Explain business logic
-- Demonstrate SQL proficiency
-
-### For Portfolio
-- Link to specific projects
-- Showcase skills on LinkedIn
-- Include in resume
-- Share with recruiters
-
----
-
-## 🔗 Quick Links
-
-**E-Commerce Database:**
-- [Project Folder](./E-commerce-Database)
-- [README](./E-commerce-Database/README.md)
-- [Setup Guide](./E-commerce-Database/SETUP.md)
-- [SQL Queries](./E-commerce-Database/queries.sql)
-- [Database Schema](./E-commerce-Database/schema.sql)
-- [ER Diagram](./E-commerce-Database/ER_DIAGRAM.png)
-
-**Companies Layoffs Analysis:**
-- [Project Folder](./Companies_layoffs_analysis)
-
----
-
-## 📝 Topics
-
-`database` `sql` `postgresql` `ecommerce` `analytics` `data-analysis` `business-intelligence` `relational-database` `query-optimization` `github`
-
----
 
 ## 👤 About Me
 
@@ -271,20 +161,9 @@ I'm a Data Analyst with expertise in:
 
 ## 📞 Contact & Social
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## 🎯 What's Coming Next
-
-- [ ] Add more complex queries to E-Commerce DB
-- [ ] Create visualization dashboards
-- [ ] Add stored procedures and triggers
-- [ ] Expand Companies Layoffs analysis
-- [ ] Add data science projects
-- [ ] Include machine learning models
+- **GitHub:** [@yourusername](https://github.com/rajat-dubey-git)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/rajatdata)
+- **Email:** [your.email@example.com](mailto:rajatdubey315@gmail.com)
 
 ---
 
@@ -299,43 +178,6 @@ This repository is open source and available under the [MIT License](LICENSE).
 - Database design inspired by real-world e-commerce platforms
 - Queries based on common business analytics challenges
 - Project structure follows GitHub best practices
-
----
-
-## 🎬 Getting Help
-
-### For Project-Specific Questions
-1. Check the project's README.md
-2. Review SETUP.md for installation issues
-3. Check query comments in SQL files
-
-### For GitHub/Git Questions
-1. Check GitHub documentation: https://docs.github.com
-2. Review GIT_INSTRUCTIONS.md
-
-### For SQL Questions
-1. PostgreSQL Docs: https://www.postgresql.org/docs/
-2. SQL Tutorial: https://www.w3schools.com/sql/
-
----
-
-## ⭐ If You Find This Helpful
-
-Please consider:
-- ⭐ Starring this repository
-- 👁️ Watching for updates
-- 🔗 Sharing with others
-- 💬 Providing feedback
-
----
-
----
-
-**Last Updated:** May 2025
-
-**Total Projects:** 2  
-**Total Queries:** 20+  
-**Total Documentation Pages:** 10+
 
 ---
 
